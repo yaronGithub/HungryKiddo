@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Apple Body -->
+    <path android:fillColor="#F44336" android:pathData="M30,40 A20,25 0 1,0 50,90 A20,25 0 1,0 70,40" />
+
+    <!-- Leaf -->
+    <path android:fillColor="#4CAF50" android:pathData="M45,30 Q50,20 55,30 L50,35 Z" />
+
+    <!-- Stem -->
+    <path android:strokeColor="#795548" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M50,30 L50,20" />
+
+    <!-- Highlight -->
+    <path android:fillColor="#FFFFFF" android:pathData="M40,50 A5,5 0 1,1 40,60 A5,5 0 1,1 40,50" />
+</vector> 

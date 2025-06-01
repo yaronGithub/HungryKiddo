@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="400dp" android:height="400dp" android:viewportWidth="400" android:viewportHeight="400">
+
+    <!-- Wall -->
+    <path android:fillColor="#FFF3E0" android:pathData="M0,0 L400,0 L400,300 L0,300 Z" />
+
+    <!-- Floor -->
+    <path android:fillColor="#8D6E63" android:pathData="M0,300 L400,300 L400,400 L0,400 Z" />
+
+    <!-- Window -->
+    <path android:fillColor="#90CAF9" android:pathData="M50,50 L150,50 L150,150 L50,150 Z" />
+
+    <!-- Window Frame -->
+    <path android:strokeColor="#795548" android:strokeWidth="4" android:pathData="M50,50 L150,50 L150,150 L50,150 Z
+                         M100,50 L100,150
+                         M50,100 L150,100" />
+
+    <!-- Table -->
+    <path android:fillColor="#795548" android:pathData="M200,250 L350,250 L350,300 L200,300 Z" />
+    <path android:fillColor="#8D6E63" android:pathData="M210,300 L220,350 L330,350 L340,300 Z" />
+
+    <!-- Picture Frame -->
+    <path android:fillColor="#FFE0B2" android:strokeColor="#795548" android:strokeWidth="4" android:pathData="M250,80 L320,80 L320,140 L250,140 Z" />
+
+    <!-- Plant -->
+    <path android:fillColor="#4CAF50" android:pathData="M320,220 Q330,200 340,220 Q350,200 360,220 L360,250 L320,250 Z" />
+    <path android:fillColor="#795548" android:pathData="M325,250 L355,250 L350,270 L330,270 Z" />
+
+    <!-- Wall Decorative Pattern -->
+    <path android:strokeColor="#FFE0B2" android:strokeWidth="2" android:pathData="M0,200 L400,200
+                         M0,100 L400,100" />
+</vector> 

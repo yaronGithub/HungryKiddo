@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Cone -->
+    <path android:fillColor="#D7CCC8" android:pathData="M40,90 L50,40 L60,90 Z" />
+
+    <!-- Ice Cream Scoops -->
+    <path android:fillColor="#F48FB1" android:pathData="M30,40 A20,20 0 1,1 70,40 A20,20 0 1,1 30,40" />
+
+    <!-- Sprinkles -->
+    <path android:strokeColor="#FF4081" android:strokeWidth="2" android:strokeLineCap="round" android:pathData="M40,30 L45,35 M50,25 L55,30 M35,40 L40,45" />
+
+    <!-- Cherry -->
+    <path android:fillColor="#D32F2F" android:pathData="M45,25 A5,5 0 1,1 45,35 A5,5 0 1,1 45,25" />
+</vector> 

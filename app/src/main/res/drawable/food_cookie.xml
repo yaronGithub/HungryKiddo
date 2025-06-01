@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Cookie Base -->
+    <path android:fillColor="#8D6E63" android:pathData="M50,20 A30,30 0 1,1 50,80 A30,30 0 1,1 50,20" />
+
+    <!-- Chocolate Chips -->
+    <path android:fillColor="#3E2723" android:pathData="M40,35 A5,5 0 1,1 40,45 A5,5 0 1,1 40,35
+                         M60,35 A5,5 0 1,1 60,45 A5,5 0 1,1 60,35
+                         M50,55 A5,5 0 1,1 50,65 A5,5 0 1,1 50,55
+                         M35,55 A5,5 0 1,1 35,65 A5,5 0 1,1 35,55
+                         M65,55 A5,5 0 1,1 65,65 A5,5 0 1,1 65,55" />
+
+    <!-- Cookie Texture -->
+    <path android:strokeColor="#795548" android:strokeWidth="2" android:pathData="M30,40 Q40,35 50,40
+                         M50,30 Q60,35 70,40
+                         M30,60 Q40,65 50,60" />
+</vector> 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="200dp" android:height="200dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Face -->
+    <path android:fillColor="#FFE0B2" android:pathData="M50,20 A30,30 0 1,1 50,80 A30,30 0 1,1 50,20" />
+
+    <!-- Eyes -->
+    <path android:fillColor="#795548" android:pathData="M35,40 A4,2 0 1,1 35,44 A4,2 0 1,1 35,40" />
+    <path android:fillColor="#795548" android:pathData="M65,40 A4,2 0 1,1 65,44 A4,2 0 1,1 65,40" />
+
+    <!-- Open Mouth -->
+    <path android:fillColor="#795548" android:pathData="M40,60 A10,8 0 1,0 60,60 A10,8 0 1,0 40,60" />
+
+    <!-- Hair -->
+    <path android:fillColor="#795548" android:pathData="M25,25 Q50,10 75,25 L70,35 Q50,20 30,35 Z" />
+</vector> 

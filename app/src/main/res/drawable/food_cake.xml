@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Cake Base -->
+    <path android:fillColor="#FFAB91" android:pathData="M20,80 L50,60 L80,80 L80,90 L20,90 Z" />
+
+    <!-- Frosting -->
+    <path android:fillColor="#FFE0B2" android:pathData="M25,60 Q50,40 75,60" />
+
+    <!-- Cherry -->
+    <path android:fillColor="#D32F2F" android:pathData="M48,35 A7,7 0 1,1 48,49 A7,7 0 1,1 48,35" />
+
+    <!-- Sprinkles -->
+    <path android:strokeColor="#FF4081" android:strokeWidth="2" android:strokeLineCap="round" android:pathData="M30,65 L35,63 M45,62 L50,60 M60,63 L65,65" />
+</vector> 

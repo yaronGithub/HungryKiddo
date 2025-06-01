@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Pizza Base -->
+    <path android:fillColor="#FFA726" android:pathData="M20,80 L50,20 L80,80 Z" />
+
+    <!-- Cheese -->
+    <path android:fillColor="#FFF3E0" android:pathData="M25,75 L50,25 L75,75 Z" />
+
+    <!-- Pepperoni -->
+    <path android:fillColor="#D32F2F" android:pathData="M45,50 A5,5 0 1,1 45,60 A5,5 0 1,1 45,50" />
+    <path android:fillColor="#D32F2F" android:pathData="M55,40 A5,5 0 1,1 55,50 A5,5 0 1,1 55,40" />
+    <path android:fillColor="#D32F2F" android:pathData="M50,65 A5,5 0 1,1 50,75 A5,5 0 1,1 50,65" />
+</vector> 

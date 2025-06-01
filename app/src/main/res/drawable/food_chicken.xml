@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="100" android:viewportHeight="100">
+
+    <!-- Drumstick -->
+    <path android:fillColor="#FFE0B2" android:pathData="M30,70 Q30,40 60,30 Q80,30 70,50 Q60,70 30,70" />
+
+    <!-- Bone -->
+    <path android:fillColor="#FFFFFF" android:pathData="M20,75 L30,70 L25,80 Z" />
+
+    <!-- Crispy Texture -->
+    <path android:strokeColor="#8D6E63" android:strokeWidth="2" android:strokeLineCap="round" android:pathData="M40,50 Q50,45 60,40 M45,60 Q55,55 65,45" />
+</vector> 
