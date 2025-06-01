@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a placeholder file. In a real app, you would replace this with an actual .wav or .mp3 sound file -->
+<placeholder>
+    <sound name="eating_sound" />
+</placeholder> 
